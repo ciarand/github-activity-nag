@@ -31,8 +31,8 @@ Goals
 
 [License][mit]
 --------------
-The MIT License (MIT)
-Copyright © 2013 Ciaran Downey <code@ciarand.me>
+The MIT License (MIT)<br>
+Copyright © 2013 Ciaran Downey &lt;code@ciarand.me&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
