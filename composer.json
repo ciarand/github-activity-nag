@@ -1,0 +1,19 @@
+{
+    "name": "ciarand/github-activity-nag",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ciaran Downey",
+            "email": "me@ciarand.me"
+        }
+    ],
+    "require": {
+        "symfony/console": "~2",
+        "guzzle/guzzle": "~3.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ciarand": "src/"
+        }
+    }
+}
