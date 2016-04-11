@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Github Activity Nag
 ===================
 The Github Activity Nag is a PHP script that, when set to run at a regular time
